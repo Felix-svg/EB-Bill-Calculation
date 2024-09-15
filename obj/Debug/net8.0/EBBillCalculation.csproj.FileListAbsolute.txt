@@ -1,0 +1,14 @@
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.GeneratedMSBuildEditorConfig.editorconfig
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.AssemblyInfoInputs.cache
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.AssemblyInfo.cs
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.csproj.CoreCompileInputs.cache
+/home/felix-omondi/development/learning/C#/EBBillCalculation/bin/Debug/net8.0/EBBillCalculation
+/home/felix-omondi/development/learning/C#/EBBillCalculation/bin/Debug/net8.0/EBBillCalculation.deps.json
+/home/felix-omondi/development/learning/C#/EBBillCalculation/bin/Debug/net8.0/EBBillCalculation.runtimeconfig.json
+/home/felix-omondi/development/learning/C#/EBBillCalculation/bin/Debug/net8.0/EBBillCalculation.dll
+/home/felix-omondi/development/learning/C#/EBBillCalculation/bin/Debug/net8.0/EBBillCalculation.pdb
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.dll
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/refint/EBBillCalculation.dll
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.pdb
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/EBBillCalculation.genruntimeconfig.cache
+/home/felix-omondi/development/learning/C#/EBBillCalculation/obj/Debug/net8.0/ref/EBBillCalculation.dll
